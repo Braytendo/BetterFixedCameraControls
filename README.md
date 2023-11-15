@@ -1,5 +1,5 @@
 # Better "Fixed Camera" Player Controls for your PS1 style game
-This script solves a movement issue that has plagued fixed camera games like Resident Evil (1996) or Final Fantasy VII (1997) for decades. 
+This Unity script solves a movement issue that has plagued fixed camera games like Resident Evil (1996) or Final Fantasy VII (1997) for decades. 
 <br>
 All it takes is a generated plane, some raycasts, and a whole lot of math.
 <br>
@@ -41,4 +41,4 @@ Left is always left, right is always right, up is up and down is down.
 And I can assure you, it feels much better playing this way. If you don't believe me, try testing the script yourself! :D
 <br>
 <br>
-<b>NOTE: This script was written for my own game project using the Rewired Plugin for input. I cleaned a few things up, but you'll need to tweak some code to get it to work (or consider getting Rewired from the asset store, it's pretty great for controller setup). For example, switching out all the references to "player" with your own input methods. There might be some other parts you need to modify, but the majority of the heavy lifting has been accomplished here.</b>
+<b>NOTE: This script was written for my own game project using the Rewired Unity Plugin for input. I cleaned a few things up, but you'll need to tweak some code to get it to work (or consider getting Rewired from the asset store, it's pretty great for controller setup). For example, switching out all the references to "player" with your own input methods. There might be some other parts you need to modify, but the majority of the heavy lifting has been accomplished here.</b>
